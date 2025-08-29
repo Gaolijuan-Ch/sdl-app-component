@@ -1,14 +1,11 @@
 {
-    "name": "a-sdl-app-component",
-    "version": "2.0.9",
+    "name": "sdl-app-component",
+    "version": "2.0.0",
     "description": "由 HUESDL 团队移动端项目孵化的组件库，组件包括`<AsyncDataEcharts>`、`<SdlCard>`、`<DataTags>`、`<DataTable>`，以满足团队移动端部分需求，实现代码复用。",
-    "author": "Sure Zhang <Sure_W@outlook.com>",
-    "contributors": [
-        "ChenXi Zhang"
-    ],
+    "author": "LiJuan Gao <2784386687@qq.com>",
     "private": false,
     "type": "module",
-    "main": "/dist/a-sdl-app-component",
+    "main": "/dist/sdl-app-component",
     "scripts": {
         "dev": "vite",
         "build": "vite build",
