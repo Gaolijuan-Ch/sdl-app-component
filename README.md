@@ -1,4 +1,4 @@
-# a-sdl-app-component
+# sdl-app-component
 
 由 HUESDL 团队移动端项目孵化的组件库，组件包括`<AsyncDataEcharts>`、`<SdlCard>`、`<DataTags>`、`<DataTable>`，以满足团队移动端部分需求，实现代码复用；其中`<AsyncDataEcharts>`支持通过 Props 渲染多 Y 轴且支持 Y 轴复用的 Echarts 图表，支持单独配置每个数据的展示类型（折线、柱状）、最大最小值、默认选中状态、颜色；未接收到数据时会显示加载中动画，提升用户体验，用法见**快速上手**。
 
